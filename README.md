@@ -19,7 +19,7 @@
   
 ## Technologies
 
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
