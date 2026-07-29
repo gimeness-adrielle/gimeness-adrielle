@@ -1,14 +1,25 @@
-## Sobre mim
+<div>
 
-Estudante de Engenharia da Computação, com foco em desenvolvimento **Full-Stack**.
+## About me
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gimenesz)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimeness.lopes@outlook.com)
 
-Atualmente desenvolvendo projetos full stack para aprofundar conhecimentos em arquitetura de software, APIs REST e boas práticas de desenvolvimento.
+</div>
+
+<p> ⭐ I'm a Computer Engineering student at UEFS (since 2024)</p>
+
+<p> 💞​ Interested in software development and currently building my skills through personal and collaborative projects. </p>
+
+<p> 🎯 Currently seeking my first opportunity as a Full-Stack Developer. </p>
 
 <br>
 
-## Tecnologias
+<div>
+  
+## Technologies
 
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
@@ -17,7 +28,4 @@ Atualmente desenvolvendo projetos full stack para aprofundar conhecimentos em ar
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 
-### Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gimenesz)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimeness.lopes@outlook.com)
+</div>
